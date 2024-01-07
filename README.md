@@ -1,4 +1,8 @@
 ### Hi there! 👋
+# I Like to
+ - Imagine
+ - Build
+ - Create
 # Working with:
  - Python
 # Learning
