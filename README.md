@@ -3,8 +3,10 @@ I like to code and stuff.
 
 
 
-# Languages I Use 
-![image](https://github.com/Chakraless/Chakraless/assets/140459784/e034b5eb-34bd-4fbd-82c6-6296ac08aac5)![image](https://github.com/Chakraless/Chakraless/assets/140459784/0b0f71c1-1d85-4a5c-8a5a-05a6e4d53131)![image](https://github.com/Chakraless/Chakraless/assets/140459784/aa612910-95a7-42ef-af5e-c7b9adad3b50)![image](https://github.com/Chakraless/Chakraless/assets/140459784/068957da-9b7f-44de-8387-0dc9cda02d71)
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 
 
