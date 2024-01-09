@@ -2,7 +2,11 @@
 I like to code and stuff.
 
 
-![image](https://github.com/Chakraless/Chakraless/assets/140459784/e034b5eb-34bd-4fbd-82c6-6296ac08aac5)
+
+# Languages
+![image](https://github.com/Chakraless/Chakraless/assets/140459784/e034b5eb-34bd-4fbd-82c6-6296ac08aac5)![image](https://github.com/Chakraless/Chakraless/assets/140459784/0b0f71c1-1d85-4a5c-8a5a-05a6e4d53131)![image](https://github.com/Chakraless/Chakraless/assets/140459784/aa612910-95a7-42ef-af5e-c7b9adad3b50)
+
+
 
 <!---
 Chakraless/Chakraless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
