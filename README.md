@@ -1,11 +1,12 @@
 ### Hi there! 👋
-I like to code and stuff
+I like to code and stuff.
 # Working with:
  - Python
 # Learning
  - JavaScript
  - HTML
  - CSS
+
 
   
 <!---
