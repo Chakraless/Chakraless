@@ -2,7 +2,7 @@
 I like to code and stuff.
 
 
-<h1>UPDATE</h1>
+<h3>UPDATE</h3>
 I just made a portfolio website, check it out:
 https://chakraless.vercel.app
 
